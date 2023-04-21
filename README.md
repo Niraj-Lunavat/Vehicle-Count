@@ -6,7 +6,7 @@ The Vehicle Tracking project is an advanced computer vision system developed usi
 
 ## Snippet
 
-![Example GIF](https://github.com/niraj)
+![Example GIF](https://github.com/Niraj-Lunavat/Vehicle-Count/blob/main/Results/output.gif)
 
 ## Requirements
 
